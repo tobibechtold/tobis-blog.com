@@ -4,7 +4,7 @@ A simple starter-kit including react, webpack, hot module replacement and more.
 Features
 ========
 
-- Hot Module Replacement for JS, JSX and CSS
+- Hot reloading (HMR) for JS, JSX and CSS
 - includes npm-install-webpack-plugin to install missing dependencies on the fly
 - Babel ES2015 presets included
 
