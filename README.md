@@ -13,5 +13,4 @@ Usage
 
 Just clone this repository and start your own Project powered by Webpack and React.
 
-To start the webpack-dev-server just execute
-    npm start
+To start the webpack-dev-server just execute `npm start`
